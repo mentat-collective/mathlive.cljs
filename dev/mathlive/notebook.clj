@@ -32,8 +32,9 @@
 ;;
 ;; ```clj
 ;; ;; deps
-;; {org.mentat/mathlive.cljs {:git/sha "$GIT_SHA"}}
-;;```
+;; {io.github.mentat-collective/mathlive.cljs
+;;   {:git/sha "$GIT_SHA"}}
+;; ```
 
 ;; Require `mathlive.core` in your namespace:
 
